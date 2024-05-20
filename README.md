@@ -4,9 +4,7 @@
 
   <p align="center">A progressive Node.js Solana trading bot API for automatic trading on the Raydium exchange.</p>
 
-  <p align="center">
   [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dalexkazakov%26type%3Dpatrons&style=flat)](https://patreon.com/alexkazakov)
-</p>
 
 
 ## Description
