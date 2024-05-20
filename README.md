@@ -4,6 +4,11 @@
 
   <p align="center">A progressive Node.js Solana trading bot API for automatic trading on the Raydium exchange.</p>
 
+  <p align="center">
+  [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dalexkazakov%26type%3Dpatrons&style=flat)](https://patreon.com/alexkazakov)
+</p>
+
+
 ## Description
 
 Solana Crendel Bot API, created by Nestjs, Typescript, Nodejs. Trading bot tracks new tokens pools on Raydium, buys tokens and sells them.
@@ -82,14 +87,18 @@ PAYER_WALLET_PRIVATE_KEY = Your Solana wallet private key like: "wG7LPvk...Z6gSE
 APP_PORT = port on which the application will run
 ```
 
-## Notes
+## Tips and tricks
 - Don't use free RPC nodes.
 - Try increasing fees(MAX_LAMPORTS) to increase the prioritization of your transactions.
 - When setting a timeout for token sales, please note that sending and confirming the transaction will take time too. 
 
 ## Support
 
-You can get paid premium support from the bot author by sending an e-mail to:  [alexandr.kazakov1@gmail.com](mailto:alexandr.kazakov1@gmail.com)
+Solana Crendel Bot is an MIT-licensed open source project, you can say thanks here:
+
+[![Support me on Patreon](https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon)](https://patreon.com/alexkazakov)
+
+Paid premium support from the bot author by sending an e-mail to:  [alexandr.kazakov1@gmail.com](mailto:alexandr.kazakov1@gmail.com)
 
 ## Roadmap
 
@@ -103,4 +112,4 @@ You can get paid premium support from the bot author by sending an e-mail to:  [
 
 ## License
 
-Solana Crendel Bot is MIT licensed.
+Solana Crendel Bot  is [MIT licensed](https://github.com/alexandr-kazakov/solana-crendel-bot/blob/main/LICENSE).
